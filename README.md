@@ -34,3 +34,19 @@
 ##### [28、虚函数表](https://github.com/0voice/qt_interview_reference/blob/main/28%E3%80%81%E8%99%9A%E5%87%BD%E6%95%B0%E8%A1%A8.md)
 ##### [29、分别写出饿汉和懒汉线程安全的单例模式](https://github.com/0voice/qt_interview_reference/blob/main/29%E3%80%81%E5%88%86%E5%88%AB%E5%86%99%E5%87%BA%E9%A5%BF%E6%B1%89%E5%92%8C%E6%87%92%E6%B1%89%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E7%9A%84%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
 ##### [30、说出观察者模式类关系和优点](https://github.com/0voice/qt_interview_reference/blob/main/30%E3%80%81%E8%AF%B4%E5%87%BA%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F%E7%B1%BB%E5%85%B3%E7%B3%BB%E5%92%8C%E4%BC%98%E7%82%B9.md)
+
+
+<h3 >金主爸爸</h3> 
+
+---
+
+##### 安利术语：零声，专注于C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK, SPDK, bpf/ebpf等等相关技术分享。本repo由零声的小伙伴推动以及所有提交patch的小伙伴（后面鸣谢部分）参与，共同完成。内容来源于互联网，本repo仅限于整理总结。
+
+##### 零声交流群: 702368736, [偶遇技术大佬交流，不定期书籍红包福利，每晚技术直播通知！](https://jq.qq.com/?_wv=1027&k=6EGekSpm)
+
+##### 点击进入 [每晚八点技术直播分享](https://ke.qq.com/course/417774?flowToken=1042176)
+
+<br/>
+<br/>
+
+
