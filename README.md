@@ -155,3 +155,17 @@
 <br/>
 
 
+## 鸣谢
+
+##### 感谢各位贡献patch的朋友， 还很多在issue里面出谋划策的朋友，为此衷心感谢。【排名规则：按照patch提交时间排序】
+
+<a href="https://github.com/wangbojing">
+    <img src="https://avatars2.githubusercontent.com/u/18027560?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/linxi09">
+    <img src="https://avatars1.githubusercontent.com/u/127097626?s=400&v=4" width="40px">
+</a> 
+
+  
+
+
