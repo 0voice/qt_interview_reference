@@ -28,4 +28,4 @@
 
 ​    ④connected信号的槽函数开启发送数据
 
-​    ⑤使用write发送数据，read接收数据
+​    ⑤使用write发送数据，read接收数据 
