@@ -22,4 +22,3 @@ int value = var.toInt(); // 将QVariant类型的数据转换为int类型
 ```
 
 在上面的代码中，QVariant::fromInt()函数将int类型的数据转换为QVariant类型，QVariant::toInt()函数将QVariant类型的数据转换为int类型。需要注意的是，QVariant类型的数据转换可能会存在精度损失和类型错误等问题，需要根据实际情况进行处理。
-
