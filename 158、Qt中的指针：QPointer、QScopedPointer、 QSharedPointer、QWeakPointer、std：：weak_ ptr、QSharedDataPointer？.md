@@ -20,4 +20,4 @@ std::weak_ptr是C++11标准库中的弱智能指针，它类似于QWeakPointer�
 
 QSharedDataPointer
 QSharedDataPointer是Qt中的共享数据指针，它可以在多个对象之间共享同一个数据，而不需要共享整个对象。QSharedDataPointer通常用于实现copy-on-write（COW）技术，避免不必要的复制操作。
-需要注意的是，不同的指针类适用于不同的场景和需求，需要根据实际情况进行选择和使用。
+需要注意的是，不同的指针类适用于不同的场景和需求，需要根据实际情况进行选择和使用。 
