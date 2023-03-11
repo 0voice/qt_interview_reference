@@ -9,4 +9,3 @@ sprintf用于将格式化的数据转换成字符串并存储到另一个字符�
 
 memcpy用于将一段内存的内容复制到另一个内存中，比如将src内存的内容复制到dest内存中。函数原型为：void *memcpy(void *dest, const void *src, size_t n)；
 总的来说，这三个函数的作用不同，strcpy和memcpy主要用于字符串和内存的复制，而sprintf主要用于格式化数据的转换。使用时需要结合具体的需求选择合适的函数来操作。
-
