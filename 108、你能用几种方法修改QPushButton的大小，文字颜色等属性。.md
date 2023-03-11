@@ -5,3 +5,4 @@
 2. 使用Qt的API：可以使用Qt的API来调整QPushButton的大小、文字颜色等属性，例如：setMinimumSize()、setMaximumSize()、setStyleSheet()等。
 
 3. 使用CSS：可以使用CSS语法来调整QPushButton的大小、文字颜色等属性，例如：QPushButton {width: 100px; height: 50px; color: red;}。
+
