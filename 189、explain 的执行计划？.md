@@ -20,4 +20,3 @@ EXPLAIN SELECT * FROM table WHERE id = 1;
 10. rows：MySQL估计需要扫描的行数。
 11. filtered：过滤行的百分比。
 12. Extra：包含MySQL解决查询的详细信息，如使用的优化器、是否使用了临时表等。 通过分析执行计划，可以了解到MySQL是如何处理查询语句的、使用哪些索引以及使用了哪些优化器等信息，从而可以根据执行计划进行SQL性能优化。
-
