@@ -40,4 +40,4 @@ dock->setWindowTitle("Dock Window");
 addDockWidget(Qt::LeftDockWidgetArea, dock);
 ```
 
-需要注意的是，QLayout类、QStackedWidget类、QSplitter类和QDockWidget类都是用于创建用户界面的类，需要根据实际需求进行选择和使用。
+需要注意的是，QLayout类、QStackedWidget类、QSplitter类和QDockWidget类都是用于创建用户界面的类，需要根据实际需求进行选择和使用。 
