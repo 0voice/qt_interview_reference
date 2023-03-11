@@ -24,4 +24,4 @@ int num = list.at(1); // 获取第2个元素
 list.removeLast(); // 删除最后一个元素
 ```
 
-需要注意的是，QList类和QLinkedList类应根据实际情况进行选择和使用。如果需要对数据进行频繁的插入和删除操作，建议使用QLinkedList类；如果需要对数据进行频繁的访问和遍历操作，建议使用QList类。
+需要注意的是，QList类和QLinkedList类应根据实际情况进行选择和使用。如果需要对数据进行频繁的插入和删除操作，建议使用QLinkedList类；如果需要对数据进行频繁的访问和遍历操作，建议使用QList类。 
