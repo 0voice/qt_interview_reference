@@ -8,4 +8,4 @@ QFrame 和 QWidget 都是 Qt 中的 GUI 组件，但是它们有一些区别：
 
 外观：QFrame 可以有边框和背景颜色，因此外观更加丰富。QWidget 只有背景颜色，没有边框。
 
-通常，当需要一个简单的框架时，使用 QFrame，当需要基础的 GUI 组件功能时，使用 QWidget。
+通常，当需要一个简单的框架时，使用 QFrame，当需要基础的 GUI 组件功能时，使用 QWidget。 
