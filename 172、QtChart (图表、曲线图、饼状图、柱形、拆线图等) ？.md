@@ -81,4 +81,4 @@ chartView->setRenderHint(QPainter::Antialiasing);
 ui->chartLayout->addWidget(chartView);
 ```
 
-4.折线图 折线图用于展示不同数据之间的趋势变化，例如不同时间段内的股票价格、不同季度的GDP增长率等。使用QtChart绘制折线图的步骤与曲线图类似。 以上是QtChart中常用的几种图表类型的绘制示例，通过QtChart，我们可以方便地将数据可视化，让数据更加直观和易于理解。
+4.折线图 折线图用于展示不同数据之间的趋势变化，例如不同时间段内的股票价格、不同季度的GDP增长率等。使用QtChart绘制折线图的步骤与曲线图类似。 以上是QtChart中常用的几种图表类型的绘制示例，通过QtChart，我们可以方便地将数据可视化，让数据更加直观和易于理解。 
