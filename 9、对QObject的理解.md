@@ -14,4 +14,4 @@ QObject还提供了基本的时间支持，QTimer类 提高了更高层次的时
 
 任何对象要实现信号与槽机制，Q_OBJECT 宏都是强制的。你也需要在源原件上运行元对象编译器。不管是否真正用到信号与槽机制，最好在所有QObject子类使用Q_OBJECT宏，以避免出现一些不必要的错误。
 
-所有的Qt widgets 都是基础QObject。如果一个对象是widget,那么isWidgetType()函数就能判断出。
+所有的Qt widgets 都是基础QObject。如果一个对象是widget,那么isWidgetType()函数就能判断出。 
