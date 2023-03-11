@@ -19,4 +19,3 @@ weak_ptr是一种特殊的shared_ptr，它可以指向shared_ptr指向的对象�
 4. QSharedPointer的默认删除器是delete，而std::shared_ptr的默认删除器是std::default_delete。
 
 相比之下，weak_ptr则是用来解决shared_ptr循环引用问题的。当两个或多个shared_ptr相互引用时，会形成循环引用，导致内存泄漏。此时，可以使用weak_ptr来打破其中一个shared_ptr的引用，避免循环引用。weak_ptr是一种弱引用，它不会增加内存对象的引用计数，只是用来观察对象是否已经被释放，可以通过lock方法获取其对应的shared_ptr。
-
