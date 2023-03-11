@@ -6,4 +6,4 @@ connect(musicPlayer,SIGNAL(positionChanged(qint64)),this,SLOT(slotReflushStartTi
 
 connect(musicPlayer,SIGNAL(positionChanged(qint64)),slotReflushStartTime(qint64));
 
-直接就是将对象都不写了，直接写个函数。
+直接就是将对象都不写了，直接写个函数。 
